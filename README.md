@@ -23,7 +23,9 @@ It contains the following features:
 Screenshots:
 
 ![alt text](https://github.com/deepakgyawali/MovieDBPartTwo_Udacity/blob/master/screenshots/screenshot_deepakgyawali_1.png "Phone Mode")
+
 ![alt text](https://github.com/deepakgyawali/MovieDBPartTwo_Udacity/blob/master/screenshots/screenshot_deepakgyawali_2.png "Phone Mode")
+
 ![alt text](https://github.com/deepakgyawali/MovieDBPartTwo_Udacity/blob/master/screenshots/screenshot_deepakgyawali_3.png "Landscape Mode")
 
 ![alt text](https://github.com/deepakgyawali/MovieDBPartTwo_Udacity/blob/master/screenshots/screenshot_deepakgyawali_4.png "Preference Setting")
