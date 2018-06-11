@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.deepakgyawali.moviedbparttwo.ui.DynamicSpanCountRecyclerView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/list"
+    android:name="com.deepakgyawali.moviedbparttwo.MoviesFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnWidth="@dimen/recycler_view_column_width"
+    android:scrollbars="vertical"
+    app:layoutManager="GridLayoutManager"
+    tools:context="com.deepakgyawali.moviedbparttwo.ui.MoviesListFragment"
+    tools:listitem="@layout/fragment_movie_item"
+    />

@@ -1,0 +1,32 @@
+<resources>
+    <string name="title_activity_settings">Configurações</string>
+    <string name="title_activity_details">Detalhes</string>
+    <string name="pref_popular_name">Popularidade</string>
+    <string name="pref_favorites_name">Favoritos</string>
+    <string name="pref_top_rated_name">Avaliação</string>
+    <string name="pref_sort_order_title">Ordenar</string>
+    <string name="title_menu_share">Compartilhar</string>
+
+    <string name="header_title">Título</string>
+    <string name="header_vote_average">Avaliação</string>
+    <string name="header_release_date">Lançamento</string>
+    <string name="header_overview">Sinopse</string>
+    <string name="header_videos">Trailers (%1$d)</string>
+    <string name="trailer_item">Trailer %1$d</string>
+    <string name="header_reviews">Reviews (%1$d)</string>
+    <string name="header_author">"Autor: "</string>
+    <string name="toast_no_internet_connection">Ainda sem conexão com a Internet. Tente novamente.</string>
+    <string name="toast_check_your_internet_connection">Por favor, verifique sua conexão com a Internet.</string>
+    <string name="toast_failed_to_retrieve_data">Falha ao obter dados do servidor.</string>
+    <string name="button_retry">TENTAR NOVAMENTE</string>
+    <string name="overview_not_available">Não disponível</string>
+    <string name="no_internet_connection">Sem conexão com a Internet</string>
+    <string name="favorites_empty">Sua lista de favoritos está vazia. Clique no botão de estrela para adicionar um filme aqui.</string>
+
+    <string name="success_add_favorites">Adicionado com sucesso na lista de favoritos</string>
+    <string name="fail_add_favorites">Falha ao adicionar na lista de favoritos</string>
+    <string name="success_remove_favorites">Removido com sucesso da lista de favoritos</string>
+    <string name="fail_remove_favorites">Falha ao remover da lista de favoritos</string>
+    <string name="please_wait_poster_download">Por favor, espere do download do poster do filme finalizar</string>
+
+</resources>
